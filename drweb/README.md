@@ -1,2 +1,0 @@
-# drweb
- test-exercise
